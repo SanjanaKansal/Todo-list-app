@@ -1,0 +1,47 @@
+
+.wrapper{ border-radius: 20px;
+    border: 10px solid #2633B0;
+    width:300px;
+    height: 500px;
+    margin:0 auto;
+    margin-top: 100px;
+    background-color: #111414;
+  
+   
+}
+.header{width:100%;
+    text-align: center;
+    padding: 15px 0px 30px 0px;
+    color: #E5E982;
+    background: linear-gradient(
+    #757575,
+#616161,
+#424242,
+#212121);
+        border-radius:5px 5px 0px 0px;
+    font-size: 1.5em;
+    font-family: 'Ranchers', cursive;
+    
+    
+}
+body{
+background:url(../image2.png);
+    
+}
+ul{
+    list-style-type: none;
+    width: 100%;
+    padding: 0;
+      color: #E5E982;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 1.2em;
+
+    
+}
+
+input:checked+label{
+    text-decoration: line-through;
+        opacity:0.26;
+}
+
+
